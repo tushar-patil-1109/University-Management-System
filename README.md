@@ -1,4 +1,4 @@
-# 🎓 University Management System (Java)
+# 🎓 University Management System (Acadex)
 
 - A Java-based University Management System developed using Core Java, Swing (GUI), and MySQL, designed to efficiently manage students, faculty, courses, departments, and academic records within a university.
 - The University Management System is a desktop application built to automate academic and administrative tasks in universities and colleges.
